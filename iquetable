@@ -1,0 +1,6 @@
+git init           # only if not initialized
+git add .
+git commit -m "Added IQuittable interface, Employee class, and Quit method"
+git branch -M main  # optional, set main branch
+git remote add origin https://github.com/YOURUSERNAME/QuittableApp.git
+git push -u origin main
