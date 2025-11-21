@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Code-First Student database example"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/StudentApp.git
+git push -u origin main
