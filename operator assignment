@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Employee class with overloaded operators"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/EmployeeComparerApp.git
+git push -u origin main
